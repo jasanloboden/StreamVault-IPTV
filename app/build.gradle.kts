@@ -78,7 +78,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.streamvault.app"
+        applicationId = "es.jasanloboden.lobodentv"
         minSdk = 25
         targetSdk = 36
         versionCode = 28
